@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Elon Musk</title>
+	</head>
+
+	<body>
+		<h1 id="1">Biografija</h1>		
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg" style="width: 200px"/>
+		
+		<h3>Rano detinjstvo</h3>	
+		<p>Musk was born on June 28, 1971, in Pretoria, Gauteng, South Africa,the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada; and Errol Musk, a South African electromechanical engineer, pilot and sailor. He has a younger brother, Kimbal (born 1972), and a younger sister, Tosca (born 1974). His paternal grandmother was British, and he also has Pennsylvania Dutch ancestry, and his maternal grandfather was American, from Minnesota. After his parents divorced in 1980, Musk lived mostly with his father in the suburbs of Pretoria.</p>
+				
+		</br>
+		
+		<h3>Karijera</h3>
+		
+		<p>Aleksandar je sad vec <strong>prepametan</strong> jako.</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Jos teksta kako bi morali da skrolujemo odnosno da make use of that link in the bottom heheh</p>
+		<p>Vidite kako dobro zna da broji Aleksandar hehe:</p>
+		
+		<ul>
+			<li>jedan</li>
+			<li>dva</li>
+			<li>tri</li>
+			<li>cetiri</li>
+			<li>pet</li>
+			<li>sest</li>
+			<li>sedam</li>
+			<li>osam</li>
+			<li>devet</li>
+			<li>deset</li>
+			<li>jedanaest</li>
+			<li>dvanaest</li>
+		</ul>
+		<p>Kliknite <a href="http://www.google.rs">OVDE</a> da pogledate sajt Musk-ove kompanije "Tesla Motors".</p>
+		<p><a href="#1">OVDE</a>
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Raspored casova hehe</title>
+	</head>
+
+	<body>
+		
+		<table rows="7" col="6" border="bold">
+		
+			<th colspan="6" style="background-color:green">Rapored casova</th>
+			<tr>
+				<td border="none"></td>
+				<td align="center" style="bold">PON</td>
+				<td align="center" style="bold">UTO</td>
+				<td align="center" style="bold">SRE</td>
+				<td align="center" style="bold">CET</td>
+				<td align="center" style="bold">PET</td>
+			</tr>
+			
+			<tr style="background-color:yellow">
+				<td>1.</td>
+				<td>Muzicko</td>
+				<td>Hemija</td>
+				<td>Likovno</td>
+				<td>Srpski</td>
+				<td>Matematika</td>
+			</tr>
+			
+			<tr>
+				<td>2.</td>
+				<td>Matematika</td>
+				<td>Srpski</td>
+				<td>Srpski</td>
+				<td>Fizicko</td>
+				<td>Srpski</td>
+			</tr>
+			
+			<tr style="background-color:yellow">
+				<td>3.</td>
+				<td>Engleski</td>
+				<td rowspan="2">Matematika</td>
+				<td>Fizika</td>
+				<td>Hemija</td>
+				<td>Fizika</td>
+			</tr>
+			
+			<tr>
+				<td>4.</td>
+				<td>Fizika</td>
+				<td>Engleski</td>
+				<td>Biologija</td>
+				<td>Informatika</td>
+			</tr>
+			
+			<tr style="background-color:yellow">
+				<td>5.</td>
+				<td>Fizicko</td>
+				<td>Biologija</td>
+				<td>Istorija</td>
+				<td>Francuski</td>
+				<td>Fizicko</td>
+			</tr>
+		
+		</table>
+		
+	</body>
+
+</html>
